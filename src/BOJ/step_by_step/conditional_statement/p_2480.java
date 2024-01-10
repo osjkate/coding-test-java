@@ -1,4 +1,4 @@
-package BOJ.conditional_statement;
+package BOJ.step_by_step.conditional_statement;
 
 import java.io.BufferedReader;
 import java.io.IOException;

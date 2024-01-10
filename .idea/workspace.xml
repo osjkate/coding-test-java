@@ -4,22 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CodingTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/conditional_statement/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_14681.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_2525.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_2753.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_2884.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_9498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/hold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BOJ/hold2.java" afterDir="false" />
+    <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[백준]단계별 - 조건문">
+      <change afterPath="$PROJECT_DIR$/src/BOJ/silver/p_11536.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/silver/p_1755.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_10807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_10810.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_10811.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_10813.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_1546.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_3052.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/array/p_5597.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_10951.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_10952.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_11021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_11022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_15552.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_2438.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_2439.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_25304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_25314.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/loop/p_8393.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_1330.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/conditional_statement/p_1330.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_14681.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/conditional_statement/p_14681.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_2480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/conditional_statement/p_2480.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_2525.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/conditional_statement/p_2525.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_2753.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/conditional_statement/p_2753.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_2884.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/conditional_statement/p_2884.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BOJ/conditional_statement/p_9498.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BOJ/step_by_step/conditional_statement/p_9498.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +68,18 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.p_2480">
-    <configuration name="p_14681" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.conditional_statement.p_14681" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BOJ.loop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.p_11536">
+    <configuration name="p_10811" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.step_by_step.array.p_10811" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.conditional_statement.*" />
+          <option name="PATTERN" value="BOJ.step_by_step.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_2480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.conditional_statement.p_2480" />
+    <configuration name="p_11536" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.silver.p_11536" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.conditional_statement.*" />
+          <option name="PATTERN" value="BOJ.silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_2525" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.conditional_statement.p_2525" />
+    <configuration name="p_1546" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.step_by_step.array.p_1546" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.conditional_statement.*" />
+          <option name="PATTERN" value="BOJ.step_by_step.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_2753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.conditional_statement.p_2753" />
+    <configuration name="p_3052" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.step_by_step.array.p_3052" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.conditional_statement.*" />
+          <option name="PATTERN" value="BOJ.step_by_step.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_2884" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BOJ.conditional_statement.p_2884" />
+    <configuration name="p_5597" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BOJ.step_by_step.array.p_5597" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="BOJ.conditional_statement.*" />
+          <option name="PATTERN" value="BOJ.step_by_step.array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p_2480" />
-        <item itemvalue="Application.p_2525" />
-        <item itemvalue="Application.p_2884" />
-        <item itemvalue="Application.p_14681" />
-        <item itemvalue="Application.p_2753" />
+        <item itemvalue="Application.p_11536" />
+        <item itemvalue="Application.p_1546" />
+        <item itemvalue="Application.p_10811" />
+        <item itemvalue="Application.p_3052" />
+        <item itemvalue="Application.p_5597" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +158,14 @@
       <option name="presentableId" value="Default" />
       <updated>1703147434791</updated>
     </task>
+    <task id="LOCAL-00001" summary="[백준]단계별 - 조건문">
+      <created>1704288693855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704288693855</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,5 +178,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[백준]단계별 - 조건문" />
+    <option name="LAST_COMMIT_MESSAGE" value="[백준]단계별 - 조건문" />
   </component>
 </project>

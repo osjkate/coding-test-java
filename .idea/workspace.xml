@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[백준]단계별 - 심화1">
-      <change afterPath="$PROJECT_DIR$/src/boj/silver/p_11478.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/silver/p_11656.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/silver/p_20291.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/step_by_step/deepening1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/step_by_step/deepening1/p_10988.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/step_by_step/deepening1/p_1157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/step_by_step/deepening1/p_2941.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/step_by_step/deepening1/p_1316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/step_by_step/deepening1/p_25206.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/silver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/silver/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +45,7 @@
       <recent name="BOJ.loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.p_2941">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.silver.Main" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boj.silver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.p_25206">
     <configuration name="p_10988" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="boj.step_by_step.deepening1.p_10988" />
       <module name="CodingTest" />
@@ -78,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_11478" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.silver.p_11478" />
+    <configuration name="p_1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.step_by_step.deepening1.p_1157" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.silver.*" />
+          <option name="PATTERN" value="boj.step_by_step.deepening1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,8 +72,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_1157" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.step_by_step.deepening1.p_1157" />
+    <configuration name="p_1316" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.step_by_step.deepening1.p_1316" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boj.step_by_step.deepening1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="p_25206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.step_by_step.deepening1.p_25206" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p_25206" />
+        <item itemvalue="Application.p_1316" />
         <item itemvalue="Application.p_2941" />
         <item itemvalue="Application.p_1157" />
         <item itemvalue="Application.p_10988" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.p_11478" />
       </list>
     </recent_temporary>
   </component>
@@ -171,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705121858123</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="[백준]단계별 - 심화1">
+      <created>1706007000171</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1706007000171</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

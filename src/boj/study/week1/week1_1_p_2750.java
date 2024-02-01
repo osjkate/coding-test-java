@@ -3,7 +3,7 @@ package boj.study.week1;
 import java.io.*;
 import java.util.Arrays;
 
-public class p_2750_week1_1 {
+public class week1_1_p_2750 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

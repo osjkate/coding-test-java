@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class p_11651_week1_3 {
+public class week1_3_p_11651 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

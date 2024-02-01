@@ -2,7 +2,7 @@ package boj.study.week1;
 
 import java.io.*;
 
-public class p_2751_week1_2 {
+public class week1_2_p_2751 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

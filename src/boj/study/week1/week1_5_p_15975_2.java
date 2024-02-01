@@ -4,23 +4,24 @@ import java.io.*;
 import java.util.Arrays;
 import java.util.StringTokenizer;
 
-public class week1_5_p_15975 {
+// 이중 배열로 해서 시간초과 됨
+public class week1_5_p_15975_2 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         int N = Integer.parseInt(br.readLine());
-        int[][] arr = new int[N][2];
+        long[][] arr = new long[N][2];
         StringTokenizer st;
         for (int i = 0; i < N; i++) {
             st = new StringTokenizer(br.readLine());
-            arr[i][0] = Integer.parseInt(st.nextToken());
-            arr[i][1] = Integer.parseInt(st.nextToken());
+            arr[i][0] = Long.parseLong(st.nextToken());
+            arr[i][1] = Long.parseLong(st.nextToken());
         }
 
-        int sum = 0;
+        long sum = 0;
 
         Arrays.sort(arr, (arr_1, arr_2) ->
-                arr_1[0] - arr_2[0]);
+                (int) (arr_1[0] - arr_2[0]));
 
         for (int i = 0; i < N; i++) {
             int up = 1, down = 1;

@@ -14,3 +14,6 @@ Week1
 
 ## 계수 정렬 (Counting Sort)
 <https://littlebitawesome.tistory.com/entry/Week1-%EA%B3%84%EC%88%98-%EC%A0%95%EB%A0%AC-Counting-Sort>
+
+## 팀 정렬 (Tim Sort)
+<https://littlebitawesome.tistory.com/entry/Collectionssort%EC%97%90-%EC%93%B0%EC%9D%B4%EB%8A%94-TimSort>

@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[코테스터디] 정렬 정리 1/2">
-      <change afterPath="$PROJECT_DIR$/src/boj/study/week1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/study/week1/SortingEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/study/week1/p_2750_week1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/study/week1/p_2751_week1_2.java" afterDir="false" />
+    <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[코테스터디] Week2 정렬 문제 풀이">
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week2/week2_3_p_5800.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week2/week2_4_p_8979.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/study/week1/SortingEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/study/week1/SortingEx1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,14 +23,25 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubProjectSettings">
-    <option name="branchProtectionPatterns">
-      <list>
-        <option value="name" />
-      </list>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="java-coding-test/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -45,22 +54,24 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="boj.study.week1" />
       <recent name="boj.silver" />
       <recent name="BOJ.loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.p_11651_week1_3">
-    <configuration name="SortingEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week1.SortingEx2" />
+  <component name="RunManager" selected="Application.week2_5_p_1158">
+    <configuration name="week2_1_p_1427" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week2.week2_1_p_1427" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.study.week1.*" />
+          <option name="PATTERN" value="boj.study.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_11651_week1_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week1.p_11651_week1_3" />
+    <configuration name="week2_2_p_2822" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week2.week2_2_p_2822" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.study.week1.*" />
+          <option name="PATTERN" value="boj.study.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_25206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.step_by_step.deepening1.p_25206" />
+    <configuration name="week2_3_p_5800" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week2.week2_3_p_5800" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.step_by_step.deepening1.*" />
+          <option name="PATTERN" value="boj.study.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_2750_week1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week1.p_2750_week1_1" />
+    <configuration name="week2_4_p_8979" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week2.week2_4_p_8979" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.study.week1.*" />
+          <option name="PATTERN" value="boj.study.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="p_2751_week1_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week1.p_2751_week1_2" />
+    <configuration name="week2_5_p_1158" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week2.week2_5_p_1158" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.study.week1.*" />
+          <option name="PATTERN" value="boj.study.week2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.p_11651_week1_3" />
-        <item itemvalue="Application.p_2751_week1_2" />
-        <item itemvalue="Application.p_2750_week1_1" />
-        <item itemvalue="Application.SortingEx2" />
-        <item itemvalue="Application.p_25206" />
+        <item itemvalue="Application.week2_5_p_1158" />
+        <item itemvalue="Application.week2_4_p_8979" />
+        <item itemvalue="Application.week2_3_p_5800" />
+        <item itemvalue="Application.week2_2_p_2822" />
+        <item itemvalue="Application.week2_1_p_1427" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +206,35 @@
       <option name="project" value="LOCAL" />
       <updated>1706431340924</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="[코테스터디] 정렬 정리 1/2">
+      <created>1706679792104</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1706679792104</updated>
+    </task>
+    <task id="LOCAL-00010" summary="[코테스터디] Week1 정렬 문제 풀이">
+      <created>1706753536130</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1706753536130</updated>
+    </task>
+    <task id="LOCAL-00011" summary="[코테스터디] Week1 정렬 문제 풀이">
+      <created>1706764889194</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1706764889194</updated>
+    </task>
+    <task id="LOCAL-00012" summary="[코테스터디] Week2 정렬 문제 풀이">
+      <created>1706838642812</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1706838642812</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +254,8 @@
     <MESSAGE value="[백준]단계별 - 문자열" />
     <MESSAGE value="[백준]단계별 - 심화1" />
     <MESSAGE value="[코테스터디] 정렬 정리 1/2" />
-    <option name="LAST_COMMIT_MESSAGE" value="[코테스터디] 정렬 정리 1/2" />
+    <MESSAGE value="[코테스터디] Week1 정렬 문제 풀이" />
+    <MESSAGE value="[코테스터디] Week2 정렬 문제 풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="[코테스터디] Week2 정렬 문제 풀이" />
   </component>
 </project>

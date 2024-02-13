@@ -20,14 +20,14 @@ public class week2_4_p_8979 {
                 arr[i][j] = Integer.parseInt(st.nextToken());
             }
         }
-        bw.write("정렬 전 \n");
-        for (int i = 0; i < N; i++) {
-            bw.write(i + 1 + "번째 : ");
-            for (int x : arr[i]) {
-                bw.write( x + " ");
-            }
-            bw.write("\n");
-        }
+//        bw.write("정렬 전 \n");
+//        for (int i = 0; i < N; i++) {
+//            bw.write(i + 1 + "번째 : ");
+//            for (int x : arr[i]) {
+//                bw.write( x + " ");
+//            }
+//            bw.write("\n");
+//        }
         Arrays.sort(arr, (x, y) -> {
             if (x[1] != y[1]) return y[1] - x[1];
             else if (x[2] != y[2]) return y[2] - x[2];
@@ -38,14 +38,14 @@ public class week2_4_p_8979 {
             }
         });
 
-        bw.write("정렬 후 \n");
-        for (int i = 0; i < N; i++) {
-            bw.write(i + 1 + "번째 : ");
-            for (int x : arr[i]) {
-                bw.write( x + " ");
-            }
-            bw.write("\n");
-        }
+//        bw.write("정렬 후 \n");
+//        for (int i = 0; i < N; i++) {
+//            bw.write(i + 1 + "번째 : ");
+//            for (int x : arr[i]) {
+//                bw.write( x + " ");
+//            }
+//            bw.write("\n");
+//        }
         int count = 1;
         for (int i = 0; i < N; i++) {
             if (arr[i][0] == K) {

@@ -1,4 +1,4 @@
-package boj.study.week3;
+package boj.study.week4;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.StringTokenizer;
 
 // 틀림
-public class week3_6_p_10816 {
+public class week3_1_p_10816 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -20,12 +20,15 @@ public class week3_6_p_10816 {
         }
 
         Collections.sort(arr);
+        ArrayList<Integer> arrCopy = new ArrayList<>();
+
 
         int M = Integer.parseInt(br.readLine());
         st = new StringTokenizer(br.readLine());
 
         for (int i = 0; i < M; i++) {
-            bw.write(count(arr, Integer.parseInt(st.nextToken())) + " ");
+            arrCopy = (ArrayList<Integer>) arr.clone();
+            bw.write(count(arrCopy, Integer.parseInt(st.nextToken())) + " ");
         }
         bw.close();
     }

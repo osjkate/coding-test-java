@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[코테스터디] Week3 이분 탐색 정리 &amp; 큐 문제">
-      <change afterPath="$PROJECT_DIR$/src/boj/study/week3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/study/week3/week3_4_p_10828.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/study/week3/week3_5_p_10866.java" afterDir="false" />
+    <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[코테스터디] Week3 큐, 스텍, 덱, 이분 탐색 문제">
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week4/week3_6_p_10816_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj/study/week3/week3_6_p_10816.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/study/week4/week3_6_p_10816.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,23 +55,28 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sujinoh/projects/CodingTest/src/boj/study/week4&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/boj/study/week4" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="boj.study.week4" />
       <recent name="boj.study.week1" />
       <recent name="boj.silver" />
       <recent name="BOJ.loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.week3_6_p_10816">
-    <configuration name="week3_2_p_10773" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week3.week3_2_p_10773" />
+  <component name="RunManager" selected="Application.week3_2_p1780">
+    <configuration name="week3_1_p_10816" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week4.week3_1_p_10816" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.study.week3.*" />
+          <option name="PATTERN" value="boj.study.week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week3_3_p_10845" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week3.week3_3_p_10845" />
+    <configuration name="week3_1_p_10816_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week4.week3_1_p_10816_2" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.study.week3.*" />
+          <option name="PATTERN" value="boj.study.week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week3_4_p_10828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week3.week3_4_p_10828" />
+    <configuration name="week3_2_p1780" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week4.week3_2_p1780" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.study.week3.*" />
+          <option name="PATTERN" value="boj.study.week4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.week3_2_p1780" />
+        <item itemvalue="Application.week3_1_p_10816_2" />
+        <item itemvalue="Application.week3_1_p_10816" />
         <item itemvalue="Application.week3_6_p_10816" />
         <item itemvalue="Application.week3_5_p_10866" />
-        <item itemvalue="Application.week3_4_p_10828" />
-        <item itemvalue="Application.week3_3_p_10845" />
-        <item itemvalue="Application.week3_2_p_10773" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1707999680771</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="[코테스터디] Week3 큐, 스텍, 덱, 이분 탐색 문제">
+      <created>1708086273540</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1708086273540</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +300,7 @@
     <MESSAGE value="[코테스터디] Week2 큐 문제" />
     <MESSAGE value="[코테스터디] Week3 덱 문제" />
     <MESSAGE value="[코테스터디] Week3 이분 탐색 정리 &amp; 큐 문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="[코테스터디] Week3 이분 탐색 정리 &amp; 큐 문제" />
+    <MESSAGE value="[코테스터디] Week3 큐, 스텍, 덱, 이분 탐색 문제" />
+    <option name="LAST_COMMIT_MESSAGE" value="[코테스터디] Week3 큐, 스텍, 덱, 이분 탐색 문제" />
   </component>
 </project>

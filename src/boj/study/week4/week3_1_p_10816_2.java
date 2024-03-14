@@ -16,7 +16,7 @@ public class week3_1_p_10816_2 {
         int num;
         for (int i = 0; i < N; i++) {
             num = Integer.parseInt(st.nextToken());
-            if (map.keySet().contains(num)) {
+            if (map.containsKey(num)) {
                 map.put(num, map.get(num) + 1);
             } else {
                 map.put(num, 1);
@@ -26,7 +26,7 @@ public class week3_1_p_10816_2 {
         st = new StringTokenizer(br.readLine());
         for (int i = 0; i < M; i++) {
             num = Integer.parseInt(st.nextToken());
-            if (map.keySet().contains(num)) {
+            if (map.containsKey(num)) {
                 bw.write(map.get(num) + " ");
             } else {
                 bw.write("0 ");

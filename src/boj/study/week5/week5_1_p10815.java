@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.StringTokenizer;
 
-public class week4_1_p10815 {
+public class week5_1_p10815 {
     static ArrayList<Integer> card;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

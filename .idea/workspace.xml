@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[코테스터디] DFS">
+    <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[코테스터디] DFS &amp; BFS">
       <change afterPath="$PROJECT_DIR$/src/boj/study/week6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week6/adjacencyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week6/adjacencyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week6/week6_1_p15650.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj/study/week6/week6_3_p1260.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/study/week6/week6_3_p1260.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,35 +72,9 @@
       <recent name="BOJ.loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.week6_3_p1260">
-    <configuration name="week3_4_p1629" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week4.week3_4_p1629" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boj.study.week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="week3_5_p2110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week4.week3_5_p2110" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boj.study.week4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="week5_2_p1065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week5.week5_2_p1065" />
+  <component name="RunManager" selected="Application.week6_2_p15651">
+    <configuration name="adjacencyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week6.adjacencyArray" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week5_3_p15649" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week5.week5_3_p15649" />
+    <configuration name="adjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week6.adjacencyList" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +99,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="week6_3_p1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week6.week6_3_p1260" />
+    <configuration name="adjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week6.adjacencyList" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boj.study.week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="week6_1_p15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week6.week6_1_p15650" />
+      <module name="CodingTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boj.study.week6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="week6_2_p15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week6.week6_2_p15651" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.week6_3_p1260" />
-        <item itemvalue="Application.week5_3_p15649" />
-        <item itemvalue="Application.week5_2_p1065" />
-        <item itemvalue="Application.week3_5_p2110" />
-        <item itemvalue="Application.week3_4_p1629" />
+        <item itemvalue="Application.week6_2_p15651" />
+        <item itemvalue="Application.week6_1_p15650" />
+        <item itemvalue="Application.adjacencyArray" />
+        <item itemvalue="Application.adjacencyList (1)" />
+        <item itemvalue="Application.adjacencyList" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710484219094</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="[코테스터디] DFS &amp; BFS">
+      <created>1710841046067</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710841046067</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,6 +341,7 @@
     <MESSAGE value="[코테스터디] 분할정복" />
     <MESSAGE value="[코테스터디] 분할정복, 이진 탐색" />
     <MESSAGE value="[코테스터디] DFS" />
-    <option name="LAST_COMMIT_MESSAGE" value="[코테스터디] DFS" />
+    <MESSAGE value="[코테스터디] DFS &amp; BFS" />
+    <option name="LAST_COMMIT_MESSAGE" value="[코테스터디] DFS &amp; BFS" />
   </component>
 </project>

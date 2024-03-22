@@ -7,7 +7,6 @@ import java.util.StringTokenizer;
 public class week6_4_p2606 {
     static boolean[] visited;
     static int[][] arr;
-    static ArrayList<Integer> answer;
     static int count;
 
 
@@ -38,8 +37,7 @@ public class week6_4_p2606 {
     }
 
     public static int dfsCount(int N, int start) {
-//        answer = new ArrayList<>();
-//        answer.add(start);
+
         visited[start] = true;
         for (int i = 1; i <= N; i++) {
             if (arr[start][i] == 1 && !visited[i]) {

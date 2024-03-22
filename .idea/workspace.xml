@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[코테스터디] DFS &amp; BFS">
-      <change afterPath="$PROJECT_DIR$/src/boj/study/week6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/boj/study/week6/week6_4_p2606.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj/study/week6/week6_4_p2606.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/study/week6/week6_4_p2606.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/boj/study/week6/week6_5_p10451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/study/week6/week6_5_p10451.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,7 @@
       <recent name="BOJ.loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.week6_5_p10451">
+  <component name="RunManager" selected="Application.week6_1_p15650">
     <configuration name="adjacencyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="boj.study.week6.adjacencyArray" />
       <module name="CodingTest" />
@@ -150,10 +150,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.week6_1_p15650" />
         <item itemvalue="Application.week6_5_p10451" />
         <item itemvalue="Application.week6_4_p2606" />
         <item itemvalue="Application.week6_2_p15651" />
-        <item itemvalue="Application.week6_1_p15650" />
         <item itemvalue="Application.adjacencyArray" />
       </list>
     </recent_temporary>
@@ -328,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710937066478</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="[코테스터디] DFS &amp; BFS">
+      <created>1710988193673</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1710988193673</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

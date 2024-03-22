@@ -48,7 +48,5 @@ public class week6_5_p10451 {
             }
         }
         return count;
-
-
     }
 }

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff839ee0-6824-4adb-83ab-0be6de854009" name="Changes" comment="[코테스터디] DFS &amp; BFS">
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boj/study/week7/p1_2961.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/study/week6/week6_4_p2606.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/study/week6/week6_4_p2606.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/boj/study/week6/week6_5_p10451.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/boj/study/week6/week6_5_p10451.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +69,13 @@
       <recent name="BOJ.loop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.week6_1_p15650">
-    <configuration name="adjacencyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week6.adjacencyArray" />
+  <component name="RunManager" selected="Application.p2_1138">
+    <configuration name="p1_2961" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week7.p1_2961" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.study.week6.*" />
+          <option name="PATTERN" value="boj.study.week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adjacencyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week6.adjacencyList" />
+    <configuration name="p2_1138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.study.week7.p2_1138" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="boj.study.week6.*" />
+          <option name="PATTERN" value="boj.study.week7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,19 +98,6 @@
     </configuration>
     <configuration name="week6_1_p15650" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="boj.study.week6.week6_1_p15650" />
-      <module name="CodingTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="boj.study.week6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="week6_2_p15651" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="boj.study.week6.week6_2_p15651" />
       <module name="CodingTest" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.p2_1138" />
+        <item itemvalue="Application.p1_2961" />
         <item itemvalue="Application.week6_1_p15650" />
         <item itemvalue="Application.week6_5_p10451" />
         <item itemvalue="Application.week6_4_p2606" />
-        <item itemvalue="Application.week6_2_p15651" />
-        <item itemvalue="Application.adjacencyArray" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710988193673</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="[코테스터디] DFS &amp; BFS">
+      <created>1711074623460</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1711074623460</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
